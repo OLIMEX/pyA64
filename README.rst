@@ -71,5 +71,5 @@ Changelog
 	- Initial release
 
 
-.. |Build Status| image:: https://travis-ci.org/StefanMavrodiev/pyA64.svg?branch=master
-   :target: https://travis-ci.org/StefanMavrodiev/pyA64
+.. |Build Status| image:: https://travis-ci.org/OLIMEX/pyA64.svg?branch=master
+   :target: https://travis-ci.org/OLIMEX/pyA64
