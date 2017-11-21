@@ -6,8 +6,7 @@ pyA64
 Description
 -----------
 
-The package provide methods for controlling GPIO pins, I2C and SPI
-buses. It's written for
+The package provide methods for controlling GPIO pins via memory access. It's written for
 `A64-OLinuXino <https://www.olimex.com/Products/OLinuXino/A64/A64-OLinuXino/open-source-hardware>`__,
 but it can be used with other boards. In this case proper operation is
 not guaranteed.
@@ -70,3 +69,7 @@ Changelog
 -  pyA64 0.1.0 (21 NOV 2017)
 
 	- Initial release
+
+
+.. |Build Status| image:: https://travis-ci.org/StefanMavrodiev/pyA64.svg?branch=master
+   :target: https://travis-ci.org/StefanMavrodiev/pyA64
