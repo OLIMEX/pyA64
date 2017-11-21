@@ -1,0 +1,3 @@
+include README.rst
+graft pyA64
+graft examples
